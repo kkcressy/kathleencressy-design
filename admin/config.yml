@@ -20,3 +20,4 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name; "tags", widget: "list"}
